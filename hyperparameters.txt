@@ -1,0 +1,3 @@
+1) No. of frames that represents each audio
+2) No. of hops (basically decides the overlap between each frame)
+3) No. of MFCCs for each frame
